@@ -1,7 +1,5 @@
 **TCP HTTP Server on Windows**
 
-This document provides a detailed, line-by-line explanation of the sample C program that implements a simple HTTP server using Winsock on Windows. Keep this README alongside your source code for easy reference.
-
 ---
 
 ```c
