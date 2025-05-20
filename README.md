@@ -172,7 +172,7 @@ int main() {
 
                 char header[256];
                 int header_len = snprintf(header, sizeof(header),
-                    "HTTP/1.1 200 OK\r\n"
+                    "HTTP/1.0 200 OK\r\n"
                     "Content-Type: text/html; charset=UTF-8\r\n"
                     "Content-Length: %zu\r\n"
                     "Connection: close\r\n"
